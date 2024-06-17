@@ -34,10 +34,10 @@ Bạn cần có những điều sau để
 ## Tác giả
 
   - **Nhóm gồm:**
-    *Đỗ Minh Tâm, *
-    *Nguyễn Tú, *
-    *Phạm Minh Khoa, *
-    *Nguyễn Hoàng Long, *
+    *Đỗ Minh Tâm,*
+    *Nguyễn Tú,*
+    *Phạm Minh Khoa,*
+    *Nguyễn Hoàng Long,*
     [PurpleBooth](https://github.com/tamXinchao/GoldNFTs)
 
 ## License
