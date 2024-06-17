@@ -38,7 +38,7 @@ Bạn cần có những điều sau để
     *Nguyễn Tú,*
     *Phạm Minh Khoa,*
     *Nguyễn Hoàng Long,*
-    [PurpleBooth](https://github.com/tamXinchao/GoldNFTs)
+    [NFTsGold](https://github.com/tamXinchao/GoldNFTs)
 
 ## License
 
